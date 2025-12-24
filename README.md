@@ -34,7 +34,7 @@ Open in browser: http://localhost:8080
 
 ## Author
 
-Max-ohne-stress
-Junior DevOps Engineer
-Based in Germany | English B2 | Deutsch A2
-LinkedIn: [linkedin.com/in/maksymmerts](https://www.linkedin.com/in/maksymmerts)
+Max-ohne-stress  
+Junior DevOps Engineer  
+Based in Germany | English B2 | Deutsch A2  
+
