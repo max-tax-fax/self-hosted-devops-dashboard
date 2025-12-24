@@ -37,4 +37,4 @@ Open in browser: http://localhost:8080
 Max-ohne-stress
 Junior DevOps Engineer
 Based in Germany | English B2 | Deutsch A2
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksymmerts)
+LinkedIn: [linkedin.com/in/maksymmerts](https://www.linkedin.com/in/maksymmerts)
